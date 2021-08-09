@@ -5,6 +5,12 @@
       "name": "线路8",
       "ad": "no",
       "url": "https://pay.520yk.cn/256/?url="
+    },
+    {
+      "id": 20,
+      "name": "线路9",
+      "ad": "no",
+      "url": "https://www.8090.la/api/?url="
     }
   ]
 }
